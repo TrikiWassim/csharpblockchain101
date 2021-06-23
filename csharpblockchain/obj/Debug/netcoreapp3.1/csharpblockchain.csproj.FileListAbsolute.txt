@@ -1,0 +1,13 @@
+C:\Projects\Blockchain\csharpblockchain\bin\Debug\netcoreapp3.1\csharpblockchain.exe
+C:\Projects\Blockchain\csharpblockchain\bin\Debug\netcoreapp3.1\csharpblockchain.deps.json
+C:\Projects\Blockchain\csharpblockchain\bin\Debug\netcoreapp3.1\csharpblockchain.runtimeconfig.json
+C:\Projects\Blockchain\csharpblockchain\bin\Debug\netcoreapp3.1\csharpblockchain.runtimeconfig.dev.json
+C:\Projects\Blockchain\csharpblockchain\bin\Debug\netcoreapp3.1\csharpblockchain.dll
+C:\Projects\Blockchain\csharpblockchain\bin\Debug\netcoreapp3.1\csharpblockchain.pdb
+C:\Projects\Blockchain\csharpblockchain\obj\Debug\netcoreapp3.1\csharpblockchain.csprojAssemblyReference.cache
+C:\Projects\Blockchain\csharpblockchain\obj\Debug\netcoreapp3.1\csharpblockchain.AssemblyInfoInputs.cache
+C:\Projects\Blockchain\csharpblockchain\obj\Debug\netcoreapp3.1\csharpblockchain.AssemblyInfo.cs
+C:\Projects\Blockchain\csharpblockchain\obj\Debug\netcoreapp3.1\csharpblockchain.csproj.CoreCompileInputs.cache
+C:\Projects\Blockchain\csharpblockchain\obj\Debug\netcoreapp3.1\csharpblockchain.dll
+C:\Projects\Blockchain\csharpblockchain\obj\Debug\netcoreapp3.1\csharpblockchain.pdb
+C:\Projects\Blockchain\csharpblockchain\obj\Debug\netcoreapp3.1\csharpblockchain.genruntimeconfig.cache

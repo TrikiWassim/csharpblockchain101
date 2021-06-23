@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\wassim.triki\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\wassim.triki\\.nuget\\packages"
+    ]
+  }
+}
